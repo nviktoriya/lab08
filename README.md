@@ -1,4 +1,4 @@
 # Laboratory Work VIII
 
-## Student: Nazarova Viktoriya
- 
+## Студент
+Назарова Виктория, группа ИУ8-21
